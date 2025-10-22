@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VoiceToText</string>
+    <string name="recognized_text_placeholder">识别的文字会显示在这里...</string>
+    <string name="start_button_text">按住说话</string>
+    <string name="permission_denied">权限被拒绝，无法使用语音识别功能</string>
+    <string name="listening">请开始说话...</string>
+    <string name="error_recognizing">识别出错，请重试</string>
+    <string name="button_text_listening">松开识别</string>
+</resources>
